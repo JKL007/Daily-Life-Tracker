@@ -7,4 +7,4 @@
 2. Then run "npm run heroku-postbuild" to install node modules in the frontend directory.
 3. Run "npm run dev" in the terminal.
 4. Ding!! Now your Daily Life Tracker app frontend is running at http://localhost:3000 and backend is running at http://localhost:5000
-5. Any changes will automatically be reflected on the server page!
+5. The page will open itself. And any changes will automatically be reflected on the server page!
