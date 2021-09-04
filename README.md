@@ -1,7 +1,7 @@
 ## Remote Server
 1. The Daily-Life-Tracker app is deployed at https://daily-life-tracker3.herokuapp.com/
 
-##Development Server
+## Development Server
 1. After downloading files, get in the folder via termianl path, run "npm i" in the terminal.
 2. Then run "npm run heroku-postbuild" to install node modules in the frontend directory.
 3. Run "npm run dev" in the terminal.
