@@ -1,5 +1,5 @@
 ## Remote Server
-1. The Daily-Life-Tracker app is deployed athttps://daily-life-tracker3.herokuapp.com/
+1. The Daily-Life-Tracker app is deployed at https://daily-life-tracker3.herokuapp.com/
 
 ##Development Server
 1. After downloading files, run "npm run dev" in the terminal.
