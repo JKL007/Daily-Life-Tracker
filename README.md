@@ -1,3 +1,4 @@
+## Daily Life Tracker is a MERN (MongoDB Atlas, Express.js, React.js, Node.js) stack web application.
 ## Remote Server
 1. The Daily-Life-Tracker app is deployed at https://daily-life-tracker3.herokuapp.com/
 
